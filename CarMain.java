@@ -6,5 +6,7 @@ public class CarMain {
     Car car=new Car("가솔린");
     car.engineInfo();
 
+
     }
 }
+
